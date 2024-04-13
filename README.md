@@ -4,9 +4,9 @@ This Python script filters a list of email addresses and passwords combolists ba
 
 ## How to Use
 
-git clone https://github.com/BurnoutBB/Email-Sorter
-cd Email-Sorter
-python email-sorter.py
+- git clone https://github.com/BurnoutBB/Email-Sorter
+- cd Email-Sorter
+- python email-sorter.py
 
 ## Requirements
 
